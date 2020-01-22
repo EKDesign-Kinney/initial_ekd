@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+	padding: 0px 190px;
+}
+header{
+	text-align: center;
+}
+
+.icon{
+	width: 50px;
+
+}
+p{
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+	color: #333E48;
+	line-height: 30px;
+}
