@@ -1,5 +1,5 @@
-$ dig WWW.EVANKINNEYDESIGN.COM +nostats +nocomments +nocmd
-  > ;WWW.EVANKINNEYDESIGN.COM.                     IN      A
-  > WWW.EVANKINNEYDESIGN.COM.              3592    IN      CNAME   EKDESIGN-KINNEY.github.io.
-  > EKDESIGN-KINNEY.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+$ dig www.evankinneydesign.com +nostats +nocomments +nocmd
+  > ;www.evankinneydesign.com.                     IN      A
+  > www.evankinneydesign.com.              3592    IN      CNAME   EKDesign-Kinney.github.io.
+  > EKDesign-Kinney.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
   >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
